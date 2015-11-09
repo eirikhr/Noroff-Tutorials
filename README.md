@@ -1,0 +1,1 @@
+Location for all Noroff related projects
